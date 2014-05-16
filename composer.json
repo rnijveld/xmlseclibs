@@ -18,6 +18,7 @@
     "time": "2013-06-19",
     "replace": {
         "cdatazone/xmlseclibs": "self.version",
-        "fr3d/xmlseclibs": "self.version"
+        "fr3d/xmlseclibs": "self.version",
+        "robrichards/xmlseclibs": "self.version"
     }
 }
